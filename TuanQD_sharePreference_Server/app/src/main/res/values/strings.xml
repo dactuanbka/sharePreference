@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Base Project</string>
+    <string name="sharePreference_path">WellCome to Server</string>
+    <string name="create_data">Create Data</string>
+</resources>
